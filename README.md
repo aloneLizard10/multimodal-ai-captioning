@@ -30,3 +30,18 @@ An intelligent web app that generates **descriptive and poetic image captions** 
 ```bash
 git clone https://github.com/your-username/multimodal-caption-gpt2.git
 cd multimodal-caption-gpt2
+
+2. Set Up Environment
+Make sure Python 3.9+ is installed.
+
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Run the App
+bash
+Copy
+Edit
+streamlit run app.py
